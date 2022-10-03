@@ -1,0 +1,45 @@
+body {
+    background-color: #E0CDA9 ;
+    font-size: 100%;
+    color: #f2f2f2;
+    background: url('https://image.ibb.co/jGk9RR/bg.jpg') no-repeat center fixed;
+    font-family: 'Source Sans Pro', sans-serif;
+
+  
+
+  }
+
+  .none{
+    list-style-type: none;
+    text-align: center;
+    background-color: rgb(31, 114, 125);
+    overflow: hidden;
+
+  }
+  .none1{ 
+    float: left;
+    padding: 14px 16px;
+ }
+ .none2{  text-decoration: none;
+    color: #f2f2f2;
+    text-align: center;
+ 
+  font-size: 17px;
+
+  }
+
+  .df-home-content h2 {
+   
+    font-size: 5rem;
+    color:#E0CDA9;
+    padding-top: 40px;
+    margin: 0 0 10px 0;
+}
+.df-home-content p {
+    margin: 0;
+    padding: 10px;
+    width: 500px;
+    max-width: 100%;
+    color:rgb(31, 114, 125);
+    font-size: 1.2rem;
+   }
